@@ -1,1 +1,3 @@
 # CS-300-Data-Structures-and-Algorithms
+
+In this course we were learning about data structures and algorithms and when we should use each of them. They are really important to understand as using the appropriate options can make a huge difference in the performance of the software. When I ran into issues, I made sure to ask questions to people that might know. A huge part of that was seeing if anyone else had already asked the question online. This has made a huge difference in the way that I think about organizing data. There are a lot of ways to improve the software using the techniques learned in this class. 
